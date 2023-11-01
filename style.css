@@ -1,1 +1,44 @@
+body {
+    background-color: green;
+ }
+
+h1 {
+    color: rgb(32, 255, 144);
+}
+
+h2 {
+    color: yellow;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+h3 {
+    text-transform: lowercase;
+    color: green;
+}
+
+p {
+    font-family:Arial;
+}
+
+ 
+ 
+ .vl {
+     color: rgb(22, 182, 35);
+    font-style: bold;
+ }
+ 
+ .ul {
+    color: rgb(20, 207, 220) !important;
+    font-style: bold !important;
+    background-color: rgb(32, 86, 25) !important;
+}
+
+ #wl{
+     color: rgb(76, 29, 245);
+    background-color: rgb(201, 18, 57);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
 
